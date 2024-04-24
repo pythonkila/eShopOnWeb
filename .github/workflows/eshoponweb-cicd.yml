@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-eshoponweb-lab
   LOCATION: eastus
   TEMPLATE-FILE: infra/webapp.bicep
-  SUBSCRIPTION-ID: /subscriptions/8459d676-49c6-4070-8b1e-95713aa0fff8
+  SUBSCRIPTION-ID: 8459d676-49c6-4070-8b1e-95713aa0fff8
   WEBAPP-NAME: eshoponweb-webapp-azlab
 
 
